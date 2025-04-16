@@ -1,18 +1,9 @@
 @charset "UTF-8";
 
-@font-face {
-    font-family: 'Figtree-normal' ;
-    src: url(../assets/fonts/Figtree-VariableFont_wght.ttf);
-    font-weight: 300 700;
-}
-@font-face {
-    font-family: 'Figtree' ;
-    src: url(../assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
-}
 
 html{
     background-color: #f4d04e;
-    font-family: 'Figtree-normal';
+    font-family: 'Figtree';
 }
 
 main{
